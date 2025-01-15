@@ -1,0 +1,10 @@
+
+[mores]
+	#In vanilla when you start blocking with a shield, there's a 0.25 seconds window where you are still not blocking. If true this (stupid) windup time is removed.
+	"Remove Shield Windup" = true
+	#If true shields will block only a certain amount of damage. If false the vanilla behaviour is used.
+	"Shields Block Fixed Damage Amount" = true
+	#The minimum damage dealt to the player for the shield to take damage (reduce durability). Vanilla is 3.
+	#Range: 0.0 ~ 3.4028234663852886E38
+	"Min Shield Hurt Damage" = 0.0
+

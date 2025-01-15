@@ -1,0 +1,18 @@
+{
+  "editorLastVersion": "0.6.19b",
+  "editorRecentProjects": [],
+  "titleScreenButton": true,
+  "serverSettings": {},
+  "blockedList": {},
+  "modelProperties": {
+    "": {
+      "values": {}
+    }
+  },
+  "keybindPerModel": {},
+  "keybinds": {},
+  "editorSelectMouseButton": 0.0,
+  "editorMenuMouseButton": 1.0,
+  "editorRotateMouseButton": 2.0,
+  "editorDragMouseButton": -1.0
+}

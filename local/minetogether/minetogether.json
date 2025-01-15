@@ -1,0 +1,18 @@
+{
+	// If the Chat component of MineTogether is enabled.
+	"chatEnabled": false,
+	// If notifications for friends are enabled.
+	"friendNotifications": true,
+	// Enable / disable chat settings sliders.
+	"chatSettingsSliders": true,
+	// If menu buttons are enabled.
+	"mainMenuButtons": true,
+	// If the Multiplayer server list should have CreeperHost adverts.
+	"mpMenuEnabled": true,
+	// INTERNAL: Marker for tracking first connections.
+	"firstConnect": [
+		"02dfa11cf8cba4408f8c67f182b48f64bbe8643a08b99a4832e277045193e30b",
+	],
+	// Stores the currently selected chat TAB. Either VANILLA or PUBLIC.
+	"selectedTab": "PUBLIC",
+}
