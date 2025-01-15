@@ -1,0 +1,16 @@
+.cache/*
+.mtsession/*
+crash-reports/*
+saves/*
+schematics/*
+screenshots/*
+.curseclient
+.qmenu_opened.marker
+minecraftinstance.json
+options.txt
+usercache.jsonusernamecache.json
+usercache.json
+journeymap/data/*
+*.log
+logs/*
+*.disabled
