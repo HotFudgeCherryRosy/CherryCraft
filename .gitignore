@@ -8,10 +8,11 @@ screenshots/
 .qmenu_opened.marker
 minecraftinstance.json
 options.txt
-usercache.jsonusernamecache.json
 usercache.json
+usernamecache.json
 journeymap/data/
 *.log
 logs/
 *.disabled
 local/
+modernfix/structureCacheV1
